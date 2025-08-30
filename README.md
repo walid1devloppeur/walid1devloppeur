@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./profile.gif" alt="banner" />
 </p>
-💫 About Me:
+##💫 About Me:
 🔭 I’m currently working on Cloud Computing & Full-Stack Projects <br>👯 I’m looking to collaborate on Open Source & Web Development Projects  <br>🤝 I’m looking for help with Advanced Cloud Architectures & DevOps Practices  <br>🌱 I’m currently learning Docker, Kubernetes, and Virtual Machines  <br>💬 Ask me about React.js, Laravel, TailwindCSS, or Full-Stack Development <br>⚡ Fun fact: I enjoy building unique UI designs that stand out from the usual templates!<br>
 
 
